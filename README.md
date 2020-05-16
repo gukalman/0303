@@ -2,7 +2,7 @@
 
 ## Built With
 - HTML5
-- JS
+- JavaScript
 
 ## Live Version
 https://gukalman.github.io/Rajz-Js/
