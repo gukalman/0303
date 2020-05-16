@@ -5,5 +5,4 @@
 - JS
 
 ## Live Version
-
-https://gukalman.github.io/0303/
+https://gukalman.github.io/Rajz-Js/
